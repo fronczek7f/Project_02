@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project_02</string>
+    <string name="button_make_basic_not">Make basic notification</string>
+    <string name="button_make_custom_not">Make custom notification</string>
+    <string name="button_make_basic_toast">Make basic toast</string>
+    <string name="button_make_custom_toast">Make custom toast</string>
+    <string name="channel_name">Default</string>
+    <string name="channel_description">Default</string>
+    <string name="custom_notification">Custom notification</string>
+    <string name="custom_notification_title">Custom notification</string>
+    <string name="custom_notification_info">Custom notification info</string>
+    <string name="todo">TODO</string>
+</resources>
